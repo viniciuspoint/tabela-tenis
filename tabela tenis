@@ -10,7 +10,7 @@
  
          //Vetor 
  
-           int v3= a + b + c1; 
+           int [v3]= a + b + c1; 
  
             Console.WriteLine("o valor do v[3] é:" + v3); 
  
